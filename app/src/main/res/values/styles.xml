@@ -1,0 +1,182 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="textview_1">
+        <item name="android:text">Clark Kent</item>
+        <item name="android:layout_width">114dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_marginTop">51dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:textSize">20sp</item>p
+    </style>
+
+    <style name="textview_2">
+        <item name="android:text">Reporter</item>
+        <item name="android:layout_width">114dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_3">
+        <item name="android:text">Very quiet bespectacled reporter at</item>
+        <item name="android:layout_width">258dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_4">
+        <item name="android:text">the Daily Planet. Clumsy fellow, but</item>
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_5">
+        <item name="android:text">well built and looks strikingly familiar</item>
+        <item name="android:layout_width">258dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_6">
+        <item name="android:text">Wonder which celebrity he looks like</item>
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_7">
+        <item name="android:text">Bruce Wayne</item>
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_marginTop">192dp</item>
+    </style>
+
+    <style name="textview_8">
+        <item name="android:text">Billionaire</item>
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_9">
+        <item name="android:text">Incredibly smart billionaire industrialist</item>
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_10">
+        <item name="android:text">and notorios playboy. Also very</item>
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_11">
+        <item name="android:text">reclusive. Almost certainly the</item>
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_12">
+        <item name="android:text">Batman. (Batman's gadgets must cost)</item>
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_13">
+        <item name="android:text">Barack Obama</item>
+        <item name=" android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="textview_14">
+        <item name="android:text">President of the USA</item>
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:layout_marginTop">-216dp</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_15">
+        <item name="android:text">44th President of the USA. Recipient</item>
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_16">
+        <item name="android:text">of the Nobel peace prize(although no</item>
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_17">
+        <item name="android:text">one is quite certain what exactly for)</item>
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="textview_18">
+        <item name="android:text">Suspected of being black</item>
+        <item name="android:layout_width">259dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentStart">true</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+
+    <style name="image_1">
+        <item name="android:layout_width">126dp</item>
+        <item name="android:layout_height">98dp</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+
+    <style name="image_2">
+        <item name="android:layout_width">123dp</item>
+        <item name="android:layout_height">97dp</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+
+    <style name="image_3">
+        <item name="android:layout_width">95dp</item>
+        <item name="android:layout_height">98dp</item>
+        <item name="android:layout_alignParentEnd">true</item>
+        <item name="android:layout_marginEnd">12dp</item>
+    </style>
+
+</resources>
